@@ -38,8 +38,9 @@ namespace Problem11
             //Search the array vertically
             int maxVertically = 0;
             int[] maxSequenceVert = new int[4];
-            for (int i = 0; i < matrix[i].Length; i++)
+            for (int i = 0; i < matrix[0].Length; i++)
             {
+
                 for (int j = 0; j < matrix[i].Length-3; j++)
                 {
                     int currentProduct = matrix[j][i] *

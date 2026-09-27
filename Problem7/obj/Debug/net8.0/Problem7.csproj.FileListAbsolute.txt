@@ -1,0 +1,15 @@
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\bin\Debug\net8.0\Problem7.exe
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\bin\Debug\net8.0\Problem7.deps.json
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\bin\Debug\net8.0\Problem7.runtimeconfig.json
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\bin\Debug\net8.0\Problem7.dll
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\bin\Debug\net8.0\Problem7.pdb
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.sourcelink.json
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.dll
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\refint\Problem7.dll
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.pdb
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\Problem7.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\Documents\Github\ProjectEuler\Problem7\obj\Debug\net8.0\ref\Problem7.dll

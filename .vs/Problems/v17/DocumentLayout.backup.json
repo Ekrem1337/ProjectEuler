@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|..\\Problem12\\Problem12.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|..\\Problem12\\Problem12.csproj|solutionrelative:problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B648FCBB-657D-48DA-8705-8D49C53B6E32}|Problem8\\Problem8.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B648FCBB-657D-48DA-8705-8D49C53B6E32}|Problem8\\Problem8.csproj|solutionrelative:problem8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1322B71-6BF2-4A3D-9115-BF4BE36F542A}|Problem6\\Problem6.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1322B71-6BF2-4A3D-9115-BF4BE36F542A}|Problem6\\Problem6.csproj|solutionrelative:problem6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C53C2180-BB36-4FA3-9482-38E2AD4A0562}|Problem5\\Problem5.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C53C2180-BB36-4FA3-9482-38E2AD4A0562}|Problem5\\Problem5.csproj|solutionrelative:problem5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42FFD1A-6381-4FC0-BA34-BE40895A9087}|Problem1\\Problem1.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42FFD1A-6381-4FC0-BA34-BE40895A9087}|Problem1\\Problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F7982E-086B-459B-BC20-BD9855A19003}|Problem2\\Problem2.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F7982E-086B-459B-BC20-BD9855A19003}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4515B8-B24C-41F6-BF34-2BA8AE5EA6B5}|Problem3\\Problem3.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4515B8-B24C-41F6-BF34-2BA8AE5EA6B5}|Problem3\\Problem3.csproj|solutionrelative:problem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|Problem12\\Problem12.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|Problem12\\Problem12.csproj|solutionrelative:problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880BB859-2308-491F-982E-CF920621F9AD}|Problem0\\Problem0.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880BB859-2308-491F-982E-CF920621F9AD}|Problem0\\Problem0.csproj|solutionrelative:problem0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +58,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem8\\Program.cs",
+              "RelativeDocumentMoniker": "Problem8\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem8\\Program.cs",
+              "RelativeToolTip": "Problem8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:38:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem3\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem3\\Program.cs",
+              "RelativeToolTip": "Problem3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:30:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem2\\Program.cs",
+              "RelativeToolTip": "Problem2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:28:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem1\\Program.cs",
+              "RelativeDocumentMoniker": "Problem1\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem1\\Program.cs",
+              "RelativeToolTip": "Problem1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:26:38.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem5\\Program.cs",
+              "RelativeDocumentMoniker": "Problem5\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem5\\Program.cs",
+              "RelativeToolTip": "Problem5\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:23:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem6\\Program.cs",
+              "RelativeDocumentMoniker": "Problem6\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem6\\Program.cs",
+              "RelativeToolTip": "Problem6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:21:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs",
+              "RelativeDocumentMoniker": "unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs",
+              "RelativeToolTip": "unibitIntoToProgrammingExam\\ProjectEulerProblem8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:19:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs",
+              "RelativeDocumentMoniker": "unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs",
+              "RelativeToolTip": "unibitIntoToProgrammingExam\\IntroToProgrammingExFour\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:18:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs",
+              "RelativeDocumentMoniker": "unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs",
+              "RelativeToolTip": "unibitIntoToProgrammingExam\\IntroToProgrammingExFive\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:17:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs",
+              "RelativeDocumentMoniker": "unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs",
+              "RelativeToolTip": "unibitIntoToProgrammingExam\\IntroToProgrammingExEight\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T16:14:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem0\\Program.cs",
+              "RelativeDocumentMoniker": "Problem0\\Program.cs",
+              "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem0\\Program.cs",
+              "RelativeToolTip": "Problem0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:57:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Program.cs",
               "RelativeDocumentMoniker": "Problem12\\Program.cs",
               "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Program.cs",
               "RelativeToolTip": "Problem12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T15:41:41.641Z",
               "EditorCaption": ""
