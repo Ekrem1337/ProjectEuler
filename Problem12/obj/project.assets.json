@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Problem12.csproj",
-      "projectName": "Problem12",
-      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Problem12.csproj",
+      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Problem18.csproj",
+      "projectName": "Problem18",
+      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Problem18.csproj",
       "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\obj\\",
       "projectStyle": "PackageReference",
