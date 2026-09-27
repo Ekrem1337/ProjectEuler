@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\bin\Debug\net8.0\IntroToProgrammingExSeven.exe
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\bin\Debug\net8.0\IntroToProgrammingExSeven.deps.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\bin\Debug\net8.0\IntroToProgrammingExSeven.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\bin\Debug\net8.0\IntroToProgrammingExSeven.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\bin\Debug\net8.0\IntroToProgrammingExSeven.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\refint\IntroToProgrammingExSeven.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\IntroToProgrammingExSeven.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExSeven\obj\Debug\net8.0\ref\IntroToProgrammingExSeven.dll

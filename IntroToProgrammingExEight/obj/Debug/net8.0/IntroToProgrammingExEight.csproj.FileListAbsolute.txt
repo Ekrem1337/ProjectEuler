@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\bin\Debug\net8.0\IntroToProgrammingExEight.exe
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\bin\Debug\net8.0\IntroToProgrammingExEight.deps.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\bin\Debug\net8.0\IntroToProgrammingExEight.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\bin\Debug\net8.0\IntroToProgrammingExEight.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\bin\Debug\net8.0\IntroToProgrammingExEight.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\refint\IntroToProgrammingExEight.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\IntroToProgrammingExEight.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExEight\obj\Debug\net8.0\ref\IntroToProgrammingExEight.dll

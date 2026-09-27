@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\bin\Debug\net8.0\IntroToProgrammingExThree.exe
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\bin\Debug\net8.0\IntroToProgrammingExThree.deps.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\bin\Debug\net8.0\IntroToProgrammingExThree.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\bin\Debug\net8.0\IntroToProgrammingExThree.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\bin\Debug\net8.0\IntroToProgrammingExThree.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\refint\IntroToProgrammingExThree.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\IntroToProgrammingExThree.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExThree\obj\Debug\net8.0\ref\IntroToProgrammingExThree.dll

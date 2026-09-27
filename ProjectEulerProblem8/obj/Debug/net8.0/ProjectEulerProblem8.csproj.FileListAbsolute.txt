@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\bin\Debug\net8.0\ProjectEulerProblem8.exe
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\bin\Debug\net8.0\ProjectEulerProblem8.deps.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\bin\Debug\net8.0\ProjectEulerProblem8.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\bin\Debug\net8.0\ProjectEulerProblem8.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\bin\Debug\net8.0\ProjectEulerProblem8.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\refint\ProjectEulerProblem8.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ProjectEulerProblem8.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\ProjectEulerProblem8\obj\Debug\net8.0\ref\ProjectEulerProblem8.dll

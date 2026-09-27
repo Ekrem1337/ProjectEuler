@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\bin\Debug\net8.0\IntroToProgrammingExTwo.exe
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\bin\Debug\net8.0\IntroToProgrammingExTwo.deps.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\bin\Debug\net8.0\IntroToProgrammingExTwo.runtimeconfig.json
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\bin\Debug\net8.0\IntroToProgrammingExTwo.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\bin\Debug\net8.0\IntroToProgrammingExTwo.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\refint\IntroToProgrammingExTwo.dll
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.pdb
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\IntroToProgrammingExTwo.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\source\repos\UnibitIntroToProgramming\IntroToProgrammingExTwo\obj\Debug\net8.0\ref\IntroToProgrammingExTwo.dll
