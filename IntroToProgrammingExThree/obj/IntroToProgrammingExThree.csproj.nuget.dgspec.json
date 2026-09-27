@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj": {}
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj": {
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj",
+        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj",
         "projectName": "IntroToProgrammingExThree",
-        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj",
+        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExThree\\IntroToProgrammingExThree.csproj",
         "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExThree\\obj\\",
+        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExThree\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

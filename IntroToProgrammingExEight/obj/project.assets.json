@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExEight\\IntroToProgrammingExEight.csproj",
+      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExEight\\IntroToProgrammingExEight.csproj",
       "projectName": "IntroToProgrammingExEight",
-      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExEight\\IntroToProgrammingExEight.csproj",
+      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExEight\\IntroToProgrammingExEight.csproj",
       "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExEight\\obj\\",
+      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExEight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

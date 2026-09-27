@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSeven\\IntroToProgrammingExSeven.csproj",
+      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSeven\\IntroToProgrammingExSeven.csproj",
       "projectName": "IntroToProgrammingExSeven",
-      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSeven\\IntroToProgrammingExSeven.csproj",
+      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSeven\\IntroToProgrammingExSeven.csproj",
       "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSeven\\obj\\",
+      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSeven\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

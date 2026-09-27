@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnibitIntroToProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2d445156c492d1ea3e8fa8581eff47861e2a396")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnibitIntroToProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnibitIntroToProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

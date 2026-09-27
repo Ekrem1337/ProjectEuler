@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\ProjectEulerProblem8\\ProjectEulerProblem8.csproj",
-      "projectName": "ProjectEulerProblem8",
-      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\ProjectEulerProblem8\\ProjectEulerProblem8.csproj",
+      "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\ProjectEulerProblem8\\Problem8.csproj",
+      "projectName": "Problem8",
+      "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\ProjectEulerProblem8\\Problem8.csproj",
       "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\ProjectEulerProblem8\\obj\\",
+      "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\ProjectEulerProblem8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

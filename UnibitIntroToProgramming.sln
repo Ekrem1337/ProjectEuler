@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToProgrammingExSeven",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToProgrammingExEight", "IntroToProgrammingExEight\IntroToProgrammingExEight.csproj", "{981EC46D-4CFC-4130-8613-BA64FE4502BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerProblem8", "ProjectEulerProblem8\ProjectEulerProblem8.csproj", "{D6FC08C9-6333-48E7-AA34-52A456ED661C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem8", "ProjectEulerProblem8\Problem8.csproj", "{D6FC08C9-6333-48E7-AA34-52A456ED661C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11", "Problem11\Problem11.csproj", "{64D4C954-C22F-4B2A-98CB-6CFF86A41665}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D6FC08C9-6333-48E7-AA34-52A456ED661C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6FC08C9-6333-48E7-AA34-52A456ED661C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6FC08C9-6333-48E7-AA34-52A456ED661C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D4C954-C22F-4B2A-98CB-6CFF86A41665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D4C954-C22F-4B2A-98CB-6CFF86A41665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D4C954-C22F-4B2A-98CB-6CFF86A41665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D4C954-C22F-4B2A-98CB-6CFF86A41665}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

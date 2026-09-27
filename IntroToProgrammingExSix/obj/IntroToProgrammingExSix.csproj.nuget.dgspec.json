@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj": {}
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj": {
+    "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj",
+        "projectUniqueName": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj",
         "projectName": "IntroToProgrammingExSix",
-        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj",
+        "projectPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSix\\IntroToProgrammingExSix.csproj",
         "packagesPath": "C:\\Users\\Ekrem Beytula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\UnibitIntroToProgramming\\IntroToProgrammingExSix\\obj\\",
+        "outputPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\IntroToProgrammingExSix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
