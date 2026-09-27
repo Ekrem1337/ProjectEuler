@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|..\\Problem12\\Problem12.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|..\\Problem12\\Problem12.csproj|solutionrelative:problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|Problem12\\Problem12.csproj|c:\\users\\ekrem beytula\\documents\\github\\projecteuler\\problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EB864B-028B-411C-B557-E31C3B64F950}|Problem12\\Problem12.csproj|solutionrelative:problem12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Problem12\\Program.cs",
               "ToolTip": "C:\\Users\\Ekrem Beytula\\Documents\\Github\\ProjectEuler\\Problem12\\Program.cs",
               "RelativeToolTip": "Problem12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T15:41:41.641Z",
               "EditorCaption": ""
